@@ -1,6 +1,6 @@
 ReadMe Instructions:
 
-**The code has to be execute using a linux machine.
+**The code has to be executed in a linux machine.
 ------------------------------------------------------------------------------------
 Procedure 1:
 -------------------------------------------------------------------------------------
